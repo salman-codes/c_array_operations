@@ -1,4 +1,5 @@
 # c_array_operations
+-----------------------------------------------------------------------------------------------------
 
 This repository contains programs which are done using array.
 
